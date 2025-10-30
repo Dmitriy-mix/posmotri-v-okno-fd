@@ -1,1 +1,0 @@
-https://github.com/Dmitriy-mix/posmotri-v-okno-fd
